@@ -13,13 +13,10 @@ tqdm (4.64.1) {optional}
 # Installation
 1. Clone this repository to your local machine.
 
-![image](https://github.com/AkhilJx/realtime-cartoonize/assets/78065413/92411faa-270b-41dc-8256-154e81650816)
-
 2.Install the required dependencies.
 
 ![image](https://github.com/AkhilJx/realtime-cartoonize/assets/78065413/1f12823b-003d-469d-878d-f97de6f737dc)
 
-3.Download the pre-trained model checkpoints from here and place them in the saved_models directory.
 
 # Usage
 Run the cartoonize_webcam.py script to apply the cartoonization effect to your webcam input. 
